@@ -1,0 +1,8 @@
+rdkit                     2018.09.1     
+tokenizers                0.9.2                 
+torch	1.7.1                
+transformers              3.4.0         
+mol2vec    
+keras                     2.2.5
+tensorflow	1.14.0
+deepchem                  2.3.0   
